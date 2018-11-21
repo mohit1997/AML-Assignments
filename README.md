@@ -1,3 +1,6 @@
-# AML-Assignments
+# Deep Learning Library (Implemented with Numpy)
 
-# For Batch Normalization follow https://wiki.tum.de/display/lfdv/Batch+Normalization#BatchNormalization-[2]BatchNormalization
+## Requirements
+1. Python 2/3
+2. Numpy
+3. Scikit-Learn
